@@ -1,0 +1,4 @@
+interface:
+  display_name: "报告撰写工作台"
+  short_description: "结合项目需求设计框架、核对资料并组织图文，支持报告撰写、周期更新和检查交付"
+  default_prompt: "使用 $report-workbench，结合当前项目需求和已有材料，设计合适框架、核对资料并完成本次报告工作。"
